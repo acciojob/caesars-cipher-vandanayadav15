@@ -52,4 +52,3 @@ function rot13(str) {
     }
     return resultStr.join("");
   };
-console.log(rot13("SERR YBIR? NPPVBWBO"));
